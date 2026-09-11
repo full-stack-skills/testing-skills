@@ -1,7 +1,7 @@
 ---
 name: appium
 description: Provides comprehensive guidance for Appium mobile testing including mobile app automation, element location, gestures, and cross-platform testing. Use when the user asks about Appium, needs to test mobile applications, automate mobile apps, or write Appium test scripts.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

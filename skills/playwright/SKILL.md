@@ -1,7 +1,7 @@
 ---
 name: playwright
 description: Provides comprehensive guidance for Playwright testing including browser automation, test writing, page objects, and cross-browser testing. Use when the user asks about Playwright, needs to write E2E tests, automate browsers, or test web applications across browsers.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

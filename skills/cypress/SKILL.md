@@ -1,7 +1,7 @@
 ---
 name: cypress
 description: Provides comprehensive guidance for Cypress end-to-end testing including commands, assertions, component testing, CI/CD integration, and best practices. Use when the user asks about Cypress, needs to write E2E tests, component tests, or configure Cypress for testing.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

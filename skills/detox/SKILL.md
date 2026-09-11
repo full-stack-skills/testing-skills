@@ -1,7 +1,7 @@
 ---
 name: detox
 description: Provides comprehensive guidance for Detox mobile testing framework including React Native testing, E2E testing, and test synchronization. Use when the user asks about Detox, needs to test React Native applications, write E2E tests for mobile apps, or configure Detox.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

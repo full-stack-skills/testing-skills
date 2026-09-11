@@ -1,7 +1,7 @@
 ---
 name: pytest
 description: Provides comprehensive guidance for pytest testing framework including test writing, fixtures, parametrization, mocking, and plugins. Use when the user asks about pytest, needs to write Python tests, use pytest fixtures, or configure pytest for Python projects.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

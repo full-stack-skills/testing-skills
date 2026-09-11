@@ -1,7 +1,7 @@
 ---
 name: junit
 description: Provides comprehensive guidance for JUnit testing framework including test annotations, assertions, test lifecycle, and best practices. Use when the user asks about JUnit, needs to write Java unit tests, use JUnit annotations, or configure JUnit for Java projects.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill
