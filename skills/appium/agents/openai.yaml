@@ -1,0 +1,4 @@
+interface:
+  display_name: "Appium"
+  short_description: "Appium mobile testing including mobile app automation, element…"
+  default_prompt: "Use $appium to help with my current task: Provides comprehensive guidance for Appium mobile testing including mobile app automation, element location, gestures, and cross-platform testing."

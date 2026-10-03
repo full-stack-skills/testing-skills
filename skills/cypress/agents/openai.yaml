@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cypress"
+  short_description: "Cypress end-to-end testing including commands, assertions…"
+  default_prompt: "Use $cypress to help with my current task: Provides comprehensive guidance for Cypress end-to-end testing including commands, assertions, component testing, CI/CD integration, and best practices."

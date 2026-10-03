@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vitest"
+  short_description: "Vitest testing framework including fast test execution, Vite…"
+  default_prompt: "Use $vitest to help with my current task: Provides comprehensive guidance for Vitest testing framework including fast test execution, Vite integration, component testing, mocking, and configuration."

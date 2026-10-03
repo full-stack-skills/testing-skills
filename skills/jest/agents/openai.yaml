@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jest"
+  short_description: "Jest testing framework including test writing, matchers, async…"
+  default_prompt: "Use $jest to help with my current task: Provides comprehensive guidance for Jest testing framework including test writing, matchers, async testing, mocking, snapshots, configuration, and CLI."

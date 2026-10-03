@@ -1,0 +1,4 @@
+interface:
+  display_name: "Detox"
+  short_description: "Detox mobile testing framework including React Native testing…"
+  default_prompt: "Use $detox to help with my current task: Provides comprehensive guidance for Detox mobile testing framework including React Native testing, E2E testing, and test synchronization."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Selenium"
+  short_description: "Selenium WebDriver including browser automation, element…"
+  default_prompt: "Use $selenium to help with my current task: Provides comprehensive guidance for Selenium WebDriver including browser automation, element location, waits, and test frameworks."

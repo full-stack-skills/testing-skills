@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pytest"
+  short_description: "pytest testing framework including test writing, fixtures…"
+  default_prompt: "Use $pytest to help with my current task: Provides comprehensive guidance for pytest testing framework including test writing, fixtures, parametrization, mocking, and plugins."

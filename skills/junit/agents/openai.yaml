@@ -1,0 +1,4 @@
+interface:
+  display_name: "Junit"
+  short_description: "JUnit testing framework including test annotations…"
+  default_prompt: "Use $junit to help with my current task: Provides comprehensive guidance for JUnit testing framework including test annotations, assertions, test lifecycle, and best practices."

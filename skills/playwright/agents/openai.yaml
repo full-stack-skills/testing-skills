@@ -1,0 +1,4 @@
+interface:
+  display_name: "Playwright"
+  short_description: "Playwright testing including browser automation, test writing…"
+  default_prompt: "Use $playwright to help with my current task: Provides comprehensive guidance for Playwright testing including browser automation, test writing, page objects, and cross-browser testing."
